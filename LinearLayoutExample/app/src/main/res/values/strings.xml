@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Information</string>
+    <string name="label">My Information</string>
+    <string name="name">Name:</string>
+    <string name="gender">Gender:</string>
+    <string name="hobby">Hobby:</string>
+    <string-array name="spinner_values">
+        <item>Undergraduate</item>
+        <item>Master</item>
+        <item>Doctor of Philosophy</item>
+    </string-array>
+    <string name="education">Education:</string>
+    <string name="country">Is Chinese?:</string>
+</resources>

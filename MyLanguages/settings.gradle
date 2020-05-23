@@ -1,0 +1,2 @@
+rootProject.name='MyLanguages'
+include ':app'

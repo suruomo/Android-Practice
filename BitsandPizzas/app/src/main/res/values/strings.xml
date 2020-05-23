@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bits and Pizzas</string>
+    <string name="create_order">Create Order</string>
+    <string name="create_order_title">Create Order</string>
+    <string name="action_share">Share</string>
+    <string name="pizza">Pizzas</string>
+    <string name="pasta">Pasta</string>
+    <string name="store">Stores</string>
+    <string-array name="options">
+        <item>Pizzas</item>
+        <item>Pasta</item>
+        <item>Stores</item>
+        <item>Create Order</item>
+    </string-array>
+</resources>

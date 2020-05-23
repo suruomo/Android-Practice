@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Starbuck</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>At Home Coffee</item>
+    </string-array>
+</resources>
